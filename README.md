@@ -1,2 +1,3 @@
-# modal_project
-A modal project with button
+# Modal Project
+
+A modal project with a toggle button that opens modal content and a close button that closes it
